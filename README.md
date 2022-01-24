@@ -2,7 +2,7 @@
 code fellows practice
 
 This is a ***practice*** sentence  
-> I hope I **practiced** well *enough*
+> I `hope` I **practiced** well *enough*
 
 Have you ever head the tragedy of *Darth Plageus* **The Wise?**
 
