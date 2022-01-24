@@ -1,4 +1,4 @@
-# super-duper-doodle
+# Ryan McMillan
 code fellows practice
 
 This is a ***practice*** sentence  
