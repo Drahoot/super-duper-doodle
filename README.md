@@ -4,4 +4,4 @@
 
 [Growth Mindset](https://drahoot.github.io/super-duper-doodle/growth.md)
 
-[Previous Code Fellow Projects]
+[Previous Code Fellow Projects](https://drahoot.github.io/super-duper-doodle/PP.md)
